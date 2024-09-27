@@ -1,4 +1,4 @@
-export const host="https://render.com/docs/web-services#port-binding";
+export const host="https://ticticket-backend.onrender.com";
 export const registerRoute = `${host}/api/auth/register`
 export const loginRoute = `${host}/api/auth/login`
 export const aregisterRoute = `${host}/api/autha/aregister`
